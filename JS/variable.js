@@ -7,4 +7,3 @@ let accountState;
 
 console.log(accountId,accountEmail,accountPasword,accountCity,accountState);
 console.table([accountId,accountEmail,accountPasword,accountCity,accountState]);
-
